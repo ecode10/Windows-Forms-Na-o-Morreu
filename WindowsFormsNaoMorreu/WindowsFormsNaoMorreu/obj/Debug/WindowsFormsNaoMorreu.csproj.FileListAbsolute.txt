@@ -1,0 +1,14 @@
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\bin\Debug\WindowsFormsNaoMorreu.exe.config
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\bin\Debug\WindowsFormsNaoMorreu.exe
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\bin\Debug\WindowsFormsNaoMorreu.pdb
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\obj\Debug\WindowsFormsNaoMorreu.csprojResolveAssemblyReference.cache
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\obj\Debug\WindowsFormsNaoMorreu.Form1.resources
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\obj\Debug\WindowsFormsNaoMorreu.Form2.resources
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\obj\Debug\WindowsFormsNaoMorreu.Properties.Resources.resources
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\obj\Debug\WindowsFormsNaoMorreu.csproj.GenerateResource.Cache
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\obj\Debug\WindowsFormsNaoMorreu.exe
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\obj\Debug\WindowsFormsNaoMorreu.pdb
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\obj\Debug\WindowsFormsNaoMorreu.formLogin.resources
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\obj\Debug\WindowsFormsNaoMorreu.frmValores.resources
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\obj\Debug\WindowsFormsNaoMorreu.frmDisciplina.resources
+C:\Users\mauriciojunior\Documents\Visual Studio 2013\Projects\WindowsFormsNaoMorreu\WindowsFormsNaoMorreu\obj\Debug\WindowsFormsNaoMorreu.frmEstado.resources
